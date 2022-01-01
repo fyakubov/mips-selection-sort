@@ -21,7 +21,7 @@ Use [arraygen.sh](utils/arraygen.sh) bash script to generate a file with new set
 
 ### Authors
 
-* **Farrukh Yakubov** - [GitHub](https://github.com/farrukh-y)
+* **Farrukh Yakubov** - [GitHub](https://github.com/fyakubov)
 
 ### License
 
